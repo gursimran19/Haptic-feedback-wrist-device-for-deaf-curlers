@@ -1,0 +1,28 @@
+Author Gursimran Singh
+
+
+This design will be used to help deaf curlers get instructions which includes sweep levels and conditions for sweeping from the skip. Usually, the skip yells the instructions directed to the sweepers but in this scenario the sweepers need an alternative method of communication with the skip. One such method is using the haptic vibrations. The design will have a controller and three receivers for each sweeper.
+The skip will coordinate using the controller, which has several components including a potentiometer connected to left and right sweeper that can be adjusted depending upon the strength of the sweeping required to each sweeper. The controller will also have LEDs for indicating battery level and if its on or off. 
+Features of the controller.
+•	Easy to use.
+•	Comfortable in hands.
+•	Light weight.
+•	Size of a PlayStation controller.
+•	Enough battery life to last a game.
+•	Durable
+•	Cost effective.
+•	Range of 150 feet.
+The receivers will be used by the sweepers to receive the instruction from the skip. There will be three receiver one for each player so that they do not have to change it after each rotation. The sweeper will know about the sweeping levels using the haptic vibrations from the device, which will be controlled by the skip. This way they can focus more on the ice rather than looking for visual signal from the skip. The receivers will have a 3-way switch to set it as left, right or turn it off when not in use. A Led as an indicator that the receiver is on. 
+Features of the receiver.
+•	Easy to Use.
+•	Light weight.
+•	Sits tight and comfortable on the wrist.
+•	Enough battery life to last a game.
+•	Durable
+•	Cost effective.
+
+The stake holder of the device would be a 
+•	The deaf curlers
+•	Sports equipment stores.
+•	Curling Clubs
+
